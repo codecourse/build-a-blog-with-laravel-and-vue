@@ -1,0 +1,29 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/typography": "^0.4.1",
+    "@tiptap/starter-kit": "^2.0.0-beta.82",
+    "@tiptap/vue-3": "^2.0.0-beta.45",
+    "axios": "^0.21.1",
+    "dayjs": "^1.10.6",
+    "lodash": "^4.17.21",
+    "slugify": "^1.6.0",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.10",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4",
+    "vite": "^2.4.2"
+  }
+}
